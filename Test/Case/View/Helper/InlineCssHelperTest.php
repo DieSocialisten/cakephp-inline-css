@@ -1,8 +1,4 @@
 <?php
-App::uses('Controller', 'Controller');
-App::uses('View', 'View');
-App::uses('HtmlHelper', 'View/Helper');
-App::uses('InlineCssHelper', 'InlineCss.View/Helper');
 
 class InlineCssHelperTest extends CakeTestCase {
 
